@@ -1,0 +1,4 @@
+simple encryption decryption
+cesar cipher =>brutforce attack
+monoalphabatic
+playfare
